@@ -18,6 +18,7 @@ class Triangle
         :scalene
       else
         
+      end
   end
   
 end
