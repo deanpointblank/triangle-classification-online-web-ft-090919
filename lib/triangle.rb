@@ -17,9 +17,7 @@ class Triangle
       when side_3 != side_2 && side_2 != side_1 && side_1 != side_3
         :scalene
       else
-        class TriangeError
-          
-        end
+        
   end
   
 end
