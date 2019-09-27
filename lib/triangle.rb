@@ -10,6 +10,9 @@ class Triangle
   
   def kind
     case
+      when side_3 == side_2 && side_2 == side_1
+        :equilateral
+      when 
   end
   
 end
